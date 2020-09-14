@@ -1,0 +1,179 @@
+body{
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 400;
+}
+
+/* title page */
+#title{
+  background-color: #ff4c68;
+  color:white;
+}
+.container-fluid{
+  padding:3% 10%;
+}
+
+/* nav bar */
+.navbar{
+  padding: 10px 0;
+}
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  margin:15px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+/* tagline and picture */
+.row{
+  margin:50px auto;
+}
+.dog-img{
+  text-align: center;
+}
+.titlepic{
+  padding: 0;
+}
+.titleimg{
+  width:55%;
+  transform: rotate(20deg);
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  margin-bottom: 30px;
+}
+
+/* download buttoms */
+.btn-dark{
+  margin:10px 10px 10px 0;
+}
+.btn-outline-light{
+  margin:10px 10px 10px 0;
+}
+.download-btn{
+  margin:50px;
+  margin-left: 0;
+}
+.fa-apple{
+  padding-right:6.25px;
+}
+
+/* features */
+#features{
+  padding: 7% 13%;
+}
+.feature-item{
+  text-align: center;
+  margin: 20px auto;
+}
+.feature-icon{
+  color:#ef8172;
+  margin: 20px;
+}
+.feature-icon:hover{
+  color:#ff4c68;
+}
+.feature-title{
+  font-family: "Montserrat",sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.feature-line{
+  width:70%;
+  margin:auto;
+  font-size: 0.8rem;
+  font-weight: light;
+  color: #8f8f8f;
+}
+
+/* testimonials */
+#testimonials{
+  background-color:#ef8172;
+  text-align: center;
+  color: white;
+}
+.testimonials-text{
+  font-weight: 600;
+  font-size: 2rem;
+  line-height: 1.5;s
+}
+.testimonials-img{
+  width: 17%;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+
+/* press */
+#press{
+  background-color:#ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 3%;
+}
+.logo{
+  margin:20px 50px;
+  width:15%;
+}
+
+/* pricing */
+#pricing{
+  text-align: center;
+}
+.pricing-title{
+  margin-top: 100px;
+  font-weight: 900;
+  font-size: 2rem;
+}
+.pricing-item{
+  padding:3% 3%;
+}
+.pricing-level{
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+.price{
+  font-weight: 900;
+  font-size: 2.5rem;
+}
+.pricing-light{
+  font-size: 0.7rem;
+  color:#8f8f8f;
+}
+
+/* cta */
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding:5%;
+}
+.outro{
+  font-size: 2rem;
+  font-weight: 900;
+  color: white;
+  padding:5% 15%;
+  line-height: 1.5;
+}
+.download{
+  margin:15px;
+}
+/* footer */
+#footer{
+  padding:5%;
+  text-align: center;
+  color: #8f8f8f;
+}
+.social-icon{
+  margin:20px 10px;
+  color:black;
+}
